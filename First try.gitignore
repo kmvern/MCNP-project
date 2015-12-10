@@ -8,7 +8,7 @@ Project assembly 17X17
 
 MODE n
 
-KCODE 10000 1.0 15 115
-KRES 0 0 0
+KCODE 1000 1.0 15 115 $Reduced from 10000 to 1000, may not need so many source histories unless you have a ton of fuel rods
+KSRC 0 0 0 $You had KRES here
 
 M1   92235 1.0
